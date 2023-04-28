@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main()
+{
+	int a;
+	int b,c;
+	a = 7+9;
+	b = a+10;
+	c = b-a;
+	
+	printf ("valor de b: %i\n", b);
+	printf ("valor de a: %i\n", a);
+	printf ("valor de c: %i\n",c); 
+	
+	
+	printf ("%i",0x100);
